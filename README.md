@@ -1,2 +1,2 @@
 # OmniFoodProject
-A tutorial project following Jonas Schmedtmann
+Project following Jonas Schmedtmann
